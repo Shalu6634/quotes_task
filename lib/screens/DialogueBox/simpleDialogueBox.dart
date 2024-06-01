@@ -23,7 +23,7 @@ class _DialogScreenState extends State<DialogScreen> {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     const Padding(
-                      padding: EdgeInsets.only(top: 20, right: 100),
+                      padding: EdgeInsets.only(top: 20, right: 60),
                       child: Text(
                         'Basic dialog title',
                         style: TextStyle(
@@ -38,13 +38,13 @@ class _DialogScreenState extends State<DialogScreen> {
                     const Padding(
                       padding: EdgeInsets.only(left: 20),
                       child: Text(
-                        'A dialog is a type of modal window\nthat appears in front of app content to \nprovide critical information,or prompt for a decision to be made ',
+                        'A dialog is a type of modal window\nthat appears in front of app content to provide critical information,or prompt for a decision to be made ',
                         style:
                             TextStyle(color: Color(0xff5b4d4b), fontSize: 15),
                       ),
                     ),
                     SizedBox(
-                      height: 10,
+                      height: 30,
                     ),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.end,
@@ -71,10 +71,11 @@ class _DialogScreenState extends State<DialogScreen> {
                           ),
                         ),
                         SizedBox(
-                          width: 30,
+                          width: 20,
                         ),
                       ],
-                    )
+                    ),
+                    SizedBox(height: 20,),
                   ],
                 ),
               ),
