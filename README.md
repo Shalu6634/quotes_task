@@ -49,6 +49,13 @@ void main() {
 
 ```
 
+### Model class :-
+- The modal class is the class with the highest frequency. We know that the mode is the number or observation that most often appears.
+-  So, the modal class is the class in a grouped data that contains the mode. 
+- That means, the class that has the highest frequency is the modal class of the grouped data.
+- Model class is a user define data type.
+
+
 ```dart
 import 'dart:io';
 import 'student.dart';
@@ -70,12 +77,4 @@ class StudentsModel {
 }
 
 ```
-
-### Model class :-
-- The modal class is the class with the highest frequency. We know that the mode is the number or observation that most often appears.
--  So, the modal class is the class in a grouped data that contains the mode. 
-- That means, the class that has the highest frequency is the modal class of the grouped data.
-- Model class is a user define data type.
-
-
 
