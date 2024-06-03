@@ -29,7 +29,8 @@ class _QuotesModelAppState extends State<QuotesModelApp> {
           children: List.generate(
             quoteModel!.quoteModelList.length,
             (index) => Card(
-              color: colorList[index % 5],
+
+              // color: colorList[index % 5],
               child: ListTile(
                 title: Text(quoteModel!.quoteModelList[index].quote!),
                 subtitle: Text(quoteModel!.quoteModelList[index].author!),
@@ -40,11 +41,15 @@ class _QuotesModelAppState extends State<QuotesModelApp> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
+          setState(() {
+            index++;
+          });
           Random random = Random();
           int x = random.nextInt(quoteModel!.quoteModelList.length);
           showDialog(
             context: context,
             builder: (context) => AlertDialog(
+              backgroundColor: colorList[index],
               title: Text(quoteModel!.quoteModelList[x].author!),
               content: Text(quoteModel!.quoteModelList[x].quote!),
               actions: [
@@ -67,4 +72,6 @@ class _QuotesModelAppState extends State<QuotesModelApp> {
     );
   }
 }
+
+
 
