@@ -1,5 +1,15 @@
 # quotes_task
+## Dialog Box
+<p>
+ <img src = "https://github.com/Shalu6634/quotes_task/assets/149373622/1d570759-885d-44f2-95b2-7df581494daf" height = 25%  width = 20%>
+ <img src = "https://github.com/Shalu6634/quotes_task/assets/149373622/cd8f8aba-2d1a-41e0-bbad-daebe0c85f57" height = 25%  width = 20%>
+ <img src = "https://github.com/Shalu6634/quotes_task/assets/149373622/0822f4a4-2e09-4a8e-8b6e-b133f0a8482e" height = 25%  width = 20%>
+ <img src = "https://github.com/Shalu6634/quotes_task/assets/149373622/306acd50-a784-4eca-b927-961e6f395d8c" height = 25%  width = 20%>
+</p>
+
+
 ##  Factory Constructor
+
 
 
 ## Write a detailed implementation of the Factory constructor & and Modal class with an explanation?
