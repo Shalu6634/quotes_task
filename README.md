@@ -88,3 +88,9 @@ class StudentsModel {
 
 ```
 
+
+<img src = "https://github.com/Shalu6634/quotes_task/assets/149373622/e1d30911-bd41-40cb-a9fa-42ab80b465bf" height = 25%  width = 25%>
+<img src = "https://github.com/Shalu6634/quotes_task/assets/149373622/79251c86-5a15-4d01-b3f7-e442565b0eb6" height = 25%  width = 25%>
+
+
+
