@@ -18,7 +18,6 @@ class  QuoteModel
     for(int i=0; i<l1.length; i++)
       {
         quoteModelList.add(QuoteModel.fromQuote(l1[i]),);
-
       }
 
   }
@@ -26,13 +25,9 @@ class  QuoteModel
 int index = 0;
 List colorList=[
   Colors.orange,
+  Colors.blue,
+  Colors.teal,
   Colors.green,
-  Colors.blue,
-  Colors.cyan,
-  Colors.red,
-  Colors.blueAccent,
-  Colors.orange,
-  Colors.blue,
-  Colors.cyan,
-  Colors.blueGrey,
+  Colors.pink,
+  Colors.red
 ];

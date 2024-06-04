@@ -13,11 +13,7 @@ List quoteList = [
     "quote": "Strive not to be a success, but rather to be of value.",
     "author": "Albert Einstein"
   },
-  {
-    "quote":
-        "Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.",
-    "author": "Robert Frost"
-  },
+
   {
     "quote": "I attribute my success to this: I never gave or took any excuse.",
     "author": "Florence Nightingale"
@@ -26,11 +22,7 @@ List quoteList = [
     "quote": "You miss 100% of the shots you don’t take.",
     "author": "Wayne Gretzky"
   },
-  {
-    "quote":
-        "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.",
-    "author": "Michael Jordan"
-  },
+
   {
     "quote":
         "The most difficult thing is the decision to act, the rest is merely tenacity.",
@@ -56,11 +48,7 @@ List quoteList = [
     "author": "John Lennon"
   },
   {"quote": "We become what we think about.", "author": "Earl Nightingale"},
-  {
-    "quote":
-        "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover.",
-    "author": "Mark Twain"
-  },
+
   {
     "quote": "Life is 10% what happens to me and 90% of how I react to it.",
     "author": "Charles Swindoll"
@@ -108,11 +96,7 @@ List quoteList = [
         "You can never cross the ocean until you have the courage to lose sight of the shore.",
     "author": "Christopher Columbus"
   },
-  {
-    "quote":
-        "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-    "author": "Maya Angelou"
-  },
+
   {
     "quote": "Either you run the day, or the day runs you.",
     "author": "Jim Rohn"
@@ -166,11 +150,7 @@ List quoteList = [
         "Go confidently in the direction of your dreams.  Live the life you have imagined.",
     "author": "Henry David Thoreau"
   },
-  {
-    "quote":
-        "When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me.",
-    "author": "Erma Bombeck"
-  },
+
   {
     "quote":
         "Few things can help an individual more than to place responsibility on him, and to let him know that you trust him.",
@@ -203,20 +183,12 @@ List quoteList = [
     "quote": "Start where you are. Use what you have.  Do what you can.",
     "author": "Arthur Ashe"
   },
-  {
-    "quote":
-        "When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life.",
-    "author": "John Lennon"
-  },
+
   {
     "quote": "Fall seven times and stand up eight.",
     "author": "Japanese Proverb"
   },
-  {
-    "quote":
-        "When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.",
-    "author": "Helen Keller"
-  },
+
   {
     "quote": "Everything has beauty, but not everyone can see.",
     "author": "Confucius"
@@ -245,11 +217,7 @@ List quoteList = [
         "If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.",
     "author": "Sheryl Sandberg"
   },
-  {
-    "quote":
-        "First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end.",
-    "author": "Aristotle"
-  },
+
   {
     "quote": "If the wind will not serve, take to the oars.",
     "author": "Latin Proverb"
@@ -278,26 +246,13 @@ List quoteList = [
     "quote": "If you want to lift yourself up, lift up someone else.",
     "author": "Booker T. Washington"
   },
-  {
-    "quote":
-        "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
-    "author": "Leonardo da Vinci"
-  },
-  {
-    "quote":
-        "Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless.",
-    "author": "Jamie Paolinetti"
-  },
+
   {
     "quote":
         "You take your life in your own hands, and what happens? A terrible thing, no one to blame.",
     "author": "Erica Jong"
   },
-  {
-    "quote":
-        "What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
-    "author": "Bob Dylan"
-  },
+
   {
     "quote": "I didn’t fail the test. I just found 100 ways to do it wrong.",
     "author": "Benjamin Franklin"
@@ -334,11 +289,7 @@ List quoteList = [
         "A truly rich man is one whose children run into his arms when his hands are empty.",
     "author": "Unknown"
   },
-  {
-    "quote":
-        "It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings.",
-    "author": "Ann Landers"
-  },
+
   {
     "quote":
         "If you want your children to turn out well, spend twice as much time with them, and half as much money.",
@@ -349,11 +300,7 @@ List quoteList = [
         "Build your own dreams, or someone else will hire you to build theirs.",
     "author": "Farrah Gray"
   },
-  {
-    "quote":
-        "The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at.",
-    "author": "Jesse Owens"
-  },
+
   {
     "quote": "Education costs money.  But then so does ignorance.",
     "author": "Sir Claus Moser"
@@ -367,11 +314,7 @@ List quoteList = [
     "quote": "It does not matter how slowly you go as long as you do not stop.",
     "author": "Confucius"
   },
-  {
-    "quote":
-        "If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
-    "author": "Oprah Winfrey"
-  },
+
   {
     "quote":
         "Remember that not getting what you want is sometimes a wonderful stroke of luck.",
@@ -401,11 +344,7 @@ List quoteList = [
     "quote": "Dreaming, after all, is a form of planning.",
     "author": "Gloria Steinem"
   },
-  {
-    "quote":
-        "It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live.",
-    "author": "Mae Jemison"
-  },
+
   {
     "quote":
         "You may be disappointed if you fail, but you are doomed if you don’t try.",
@@ -424,11 +363,7 @@ List quoteList = [
         "The question isn’t who is going to let me; it’s who is going to stop me.",
     "author": "Ayn Rand"
   },
-  {
-    "quote":
-        "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
-    "author": "Henry Ford"
-  },
+
   {
     "quote":
         "It’s not the years in your life that count. It’s the life in your years.",
