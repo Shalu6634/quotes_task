@@ -93,4 +93,5 @@ class StudentsModel {
 <img src = "https://github.com/Shalu6634/quotes_task/assets/149373622/79251c86-5a15-4d01-b3f7-e442565b0eb6" height = 25%  width = 25%>
 
 
+https://github.com/Shalu6634/quotes_task/assets/149373622/c38bbc65-3556-44c5-8621-cfdf7077803a
 
