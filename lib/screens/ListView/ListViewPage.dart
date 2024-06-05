@@ -44,11 +44,16 @@ class _ListViewScreenState extends State<ListViewScreen> {
         ],
       ),
       body:(ch) ? GridView.builder(
+
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: 2, childAspectRatio: 9 / 8),
-        itemBuilder: (context, index) => ListTile(
-          title: Text(quoteModel!.quoteModelList[index].quote!),
-          subtitle: Text(quoteModel!.quoteModelList[index].author!),
+        itemBuilder: (context, index) => Card(
+          color: colorList[index % 2],
+          child: ListTile(
+
+            title: Text(quoteModel!.quoteModelList[index].quote!),
+            subtitle: Text(quoteModel!.quoteModelList[index].author!),
+          ),
         ),
       ):ListView.builder(
 

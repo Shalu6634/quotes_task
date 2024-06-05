@@ -24,10 +24,7 @@ class  QuoteModel
 }
 int index = 0;
 List colorList=[
-  Colors.orange,
-  Colors.blue,
+  Colors.cyan,
   Colors.teal,
-  Colors.green,
-  Colors.pink,
-  Colors.red
+
 ];
