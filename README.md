@@ -100,3 +100,7 @@ https://github.com/Shalu6634/quotes_task/assets/149373622/c38bbc65-3556-44c5-862
 
 
 
+
+https://github.com/Shalu6634/quotes_task/assets/149373622/dda59d52-878b-489f-87f8-f9ed35e05790
+
+
