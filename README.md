@@ -95,3 +95,8 @@ class StudentsModel {
 
 https://github.com/Shalu6634/quotes_task/assets/149373622/c38bbc65-3556-44c5-8621-cfdf7077803a
 
+<img src= "https://github.com/Shalu6634/quotes_task/assets/149373622/a46a4d8b-4de4-4b85-815e-e2d251add202" width = 25%  height = 25%>
+<img src= "https://github.com/Shalu6634/quotes_task/assets/149373622/5082170e-4210-4847-b693-fcef7aff1a93" width = 25%  height = 25%>
+
+
+
