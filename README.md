@@ -7,10 +7,14 @@
  <img src = "https://github.com/Shalu6634/quotes_task/assets/149373622/306acd50-a784-4eca-b927-961e6f395d8c" height = 25%  width = 20%>
 </p>
 
+## Tic Tac Toe
+<img src = "https://github.com/Shalu6634/quotes_task/assets/149373622/c2b886f4-2cf5-4664-aee8-276667de98c8" width = 25%  height=25%>
+<img src = "https://github.com/Shalu6634/quotes_task/assets/149373622/dc5a02ed-fbfd-4198-b7eb-7548c4810134" width = 25%  height=25%>
+<img src = "https://github.com/Shalu6634/quotes_task/assets/149373622/27ee2da2-92ac-4019-ba8a-27391db41d90" width = 25%  height=25%>
+
+
 
 ##  Factory Constructor
-
-
 
 ## Write a detailed implementation of the Factory constructor & and Modal class with an explanation?
 
