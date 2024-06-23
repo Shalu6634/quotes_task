@@ -108,13 +108,13 @@ class _HomePageState extends State<HomePage> {
                       width: 170,
                       decoration: BoxDecoration(
                         color: Colors.white10,
-                        border: Border.all(color: Colors.white),
+                        border: Border.all(color: Colors.amber),
                         borderRadius: BorderRadius.all(Radius.circular(20)),
                       ),
                       child: Center(
                         child: Text(
                           'ReStart',
-                          style: TextStyle(color: Colors.white, fontSize: 30),
+                          style: TextStyle(color: Colors.amber, fontSize: 30),
                         ),
                       ),
                     ),

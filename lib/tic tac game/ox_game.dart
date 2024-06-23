@@ -13,7 +13,7 @@ class _TicTacState extends State<TicTac> {
   @override
   Widget build(BuildContext context) {
     Timer(Duration(seconds: 4), () {
-      Navigator.of(context).pushNamed('/home');
+      Navigator.of(context).pushNamed('/tic');
     });
     return Scaffold(
       backgroundColor: Colors.black,

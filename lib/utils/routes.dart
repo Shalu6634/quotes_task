@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:quotes_task/screens/ListView/ListViewPage.dart';
 import 'package:quotes_task/tic%20tac%20game/gamePage.dart';
 import 'package:quotes_task/tic%20tac%20game/ox_game.dart';
+import 'package:quotes_task/tic%20tac%20game/second.dart';
 import '../screens/DialogueBox/fullScreenBox.dart';
 import '../screens/DialogueBox/simpleDialogueBox.dart';
 import '../screens/Random quotes/HomePage.dart';
@@ -15,5 +16,6 @@ class AppRoutes
   '/list' : (context)=>ListViewScreen(),
   '/' : (context)=>TicTac(),
   '/home' : (context)=>HomePage(),
+  '/tic' : (context)=>SecondPage(),
   };
 }
